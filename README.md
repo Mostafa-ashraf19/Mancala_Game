@@ -22,7 +22,7 @@ This is an implementation of the classic 2-rank (2-players) Mancala where the ob
   
 ## Project YouTube Video
 
- - (Link of the video)
+ - https://www.youtube.com/watch?v=ni4iUsMTcs8
 
 
 ## Prerequisites
