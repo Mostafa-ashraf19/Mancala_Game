@@ -43,7 +43,7 @@ exe source file: https://github.com/Mostafa-ashraf19/Mancala_Game.git
  
   
 ## Deployment
-  - Windows Package: 
+  - Windows Package: https://github.com/Mostafa-ashraf19/Mancala_Game/blob/main/windows%20package/main.exe
 
 
 
