@@ -29,7 +29,7 @@ This is an [implementation](https://github.com/Mostafa-ashraf19/Mancala_Game/blo
 
 ``` 
 1. PyQt5
-2. git clone: 
+2. git clone: https://github.com/Mostafa-ashraf19/Mancala_Game.git
 3. open the project. 
 4. Run it.
  
