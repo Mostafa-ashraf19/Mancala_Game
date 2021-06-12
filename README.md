@@ -1,24 +1,24 @@
 # Mancala Game
 
-This is an implementation of the classic 2-rank (2-players) Mancala where the object of the game is to capture the most stones.
+This is an [implementation](https://github.com/Mostafa-ashraf19/Mancala_Game/blob/main/docs/AI-Mancala-Project-Descrption.pdf) of the classic 2-rank (2-players) Mancala where the object of the game is to capture the most stones.
 ```
   next Version can simulate more levels of gaming & Support playing 2 users against each other.
 ```
  ---
 ## Public View and Example From program
 
-![load last game] (C:/Users/DELL/Desktop/AI/1.png)
+![load last game](https://raw.githubusercontent.com/Mostafa-ashraf19/Mancala_Game/main/Imgs/SC2.png)
 
-![Save the current state of the game] (C:/Users/DELL/Desktop/AI/2.png)
+![Save the current state of the game](https://raw.githubusercontent.com/Mostafa-ashraf19/Mancala_Game/main/Imgs/SC3.png)
 
-![starting new game] (C:/Users/DELL/Desktop/AI/3.png)
+![starting new game](https://raw.githubusercontent.com/Mostafa-ashraf19/Mancala_Game/main/Imgs/SC4.png)
 
 
 ---
 ## Contributors
-  - Mostafa Ashraf Mohammed 		- <mostaphaashraf1996@gmail.com> 	- 16T0107	- 
-  - Mohammed Obada Bahaa Sarsar 	- <obadasarsar7@gmail.com> 			- 16W0061	- 
-  - Mariam Atef Shafik 				- <mariam.atef.mas@gmail.com>		- 1601372	- 
+  - Mostafa Ashraf Mohammed 		- <mostaphaashraf1996@gmail.com> 	- 16T0107	
+  - Mohammed Obada Bahaa Sarsar 	- <obadasarsar7@gmail.com> 			- 16W0061 
+  - Mariam Atef Shafik 				- <mariam.atef.mas@gmail.com>		- 1601372
   
 ## Project YouTube Video
 
@@ -37,7 +37,7 @@ This is an implementation of the classic 2-rank (2-players) Mancala where the ob
 ## Installation and building process :
 1. Install exe
 ``` 
-exe source file: shorturl.at/kpzZ3
+exe source file: https://github.com/Mostafa-ashraf19/Mancala_Game.git
 ``` 
 2. Run it
  
